@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    margin-top: 2px;
+    height: 2400px;
+    position: relative;
+}
+a{
+    position:absolute;
+    font-size: 70px;
+    left: 400px;
+    text-decoration: none;
+    top: 1295px;
+    color: white;
+}
